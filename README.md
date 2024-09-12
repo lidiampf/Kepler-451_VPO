@@ -1,4 +1,5 @@
 # Análise da Variação do Período Orbital de Kepler-451
+## Candidato a sistema multiplanetário em uma configuração circumbinária
  
 Este código busca investigar a variação do período orbital da binária pós-envelope comum *sdB+dM* eclipsante destacada, Kepler-451, através do método Monte Carlo via Cadeia de Markov (*MCMC*) adaptado para o *Stretch Move* ([Goodman & Weare, 2010](https://msp.org/camcos/2010/5-1/camcos-v5-n1-p04-s.pdf)).
 
